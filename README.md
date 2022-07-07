@@ -1,5 +1,22 @@
-   
-<img width="100%" src="https://camo.githubusercontent.com/166cc76b36f56e6f171ddc04d70c368e37338f94b1fd3017cb5d2ba7d7777d2e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3138302673656374696f6e3d68656164657226746578743d4d617468657573204d61696120416c766172657a26666f6e7453697a653d333026666f6e74436f6c6f723d66666626616e696d6174696f6e3d7477696e6b6c696e6726666f6e74416c69676e593d3335" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=00bfbf&amp;height=180&amp;section=header&amp;text=&amp;fontSize=30&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=35" style="max-width: 100%;">
+   ### Olá eu sou o Wagner Barros de Oliveira✋
+
+
+[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://sujeitoprogramador.com)
+[![BlogYoutube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://Instagram.com/sujeitoprogramador.com)
+
+![Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=wagnerBarros&show_icons=true&theme=dracula)
+
+## Tecnologia que eu estou usando
+
+<div>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+<img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+
+<img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+
+</div>
 
     
 
