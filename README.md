@@ -16,8 +16,12 @@
 
 <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
-</div>
+</div><br>
 
+
+Sou apaixonado por tecnologia por entender ser importaante melhorar a vida das pessoas através da programação.
+
+## Meu email para contato: wagner_barros@icloud.com
     
 
   
